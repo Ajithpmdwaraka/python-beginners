@@ -1,4 +1,3 @@
-#Assigning different data types(int, float, string) to variables
 
 a = 4
 b = 6.6
